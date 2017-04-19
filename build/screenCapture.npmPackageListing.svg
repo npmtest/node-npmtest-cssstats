@@ -1,0 +1,38 @@
+<svg height="558" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="558" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-19 21:29:13 +0000   453140 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 21:29:13 +0000     2440 bytes  index.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 21:29:13 +0000     1636 bytes  lib/declarations.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 21:29:13 +0000      536 bytes  lib/get-all-font-families.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 21:29:13 +0000      538 bytes  lib/get-all-font-sizes.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 21:29:13 +0000      743 bytes  lib/get-property-resets.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 21:29:13 +0000      232 bytes  lib/get-property-value-count.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 21:29:13 +0000      319 bytes  lib/get-repeated-values.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 21:29:13 +0000      382 bytes  lib/get-sorted-specificity.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 21:29:13 +0000      610 bytes  lib/get-specificity-graph.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 21:29:13 +0000      192 bytes  lib/get-unique-property-count.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 21:29:13 +0000      546 bytes  lib/get-vendor-prefixed-properties.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 21:29:13 +0000      842 bytes  lib/media-queries.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 21:29:13 +0000      584 bytes  lib/rules.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 21:29:13 +0000      116 bytes  lib/selector-parser.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 21:29:13 +0000     1800 bytes  lib/selectors.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 21:29:13 +0000       82 bytes  lib/size.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-19 21:29:13 +0000     3046 bytes  package.json</tspan>
+<tspan x="10" y="314"> 18.  2017-04-19 21:29:13 +0000     6776 bytes  readme.md</tspan>
+<tspan x="10" y="330"> 19.  2017-04-19 21:29:13 +0000    18860 bytes  test/fixtures/basscss.css</tspan>
+<tspan x="10" y="346"> 20.  2017-04-19 21:29:13 +0000    21984 bytes  test/fixtures/font-awesome.css</tspan>
+<tspan x="10" y="362"> 21.  2017-04-19 21:29:13 +0000       77 bytes  test/fixtures/font-shorthand.css</tspan>
+<tspan x="10" y="378"> 22.  2017-04-19 21:29:13 +0000   112018 bytes  test/fixtures/gridio-national-light.css</tspan>
+<tspan x="10" y="394"> 23.  2017-04-19 21:29:13 +0000     3563 bytes  test/fixtures/gridio.css</tspan>
+<tspan x="10" y="410"> 24.  2017-04-19 21:29:13 +0000      171 bytes  test/fixtures/keyframes.css</tspan>
+<tspan x="10" y="426"> 25.  2017-04-19 21:29:13 +0000      887 bytes  test/fixtures/small.css</tspan>
+<tspan x="10" y="442"> 26.  2017-04-19 21:29:13 +0000   185787 bytes  test/fixtures/stackoverflow.css</tspan>
+<tspan x="10" y="458"> 27.  2017-04-19 21:29:13 +0000    36767 bytes  test/results/basscss.json</tspan>
+<tspan x="10" y="474"> 28.  2017-04-19 21:29:13 +0000    36658 bytes  test/results/font-awesome.json</tspan>
+<tspan x="10" y="490"> 29.  2017-04-19 21:29:13 +0000      590 bytes  test/results/gridio-national-light.json</tspan>
+<tspan x="10" y="506"> 30.  2017-04-19 21:29:13 +0000     4978 bytes  test/results/gridio.json</tspan>
+<tspan x="10" y="522"> 31.  2017-04-19 21:29:13 +0000     2868 bytes  test/results/small.json</tspan>
+<tspan x="10" y="538"> 32.  2017-04-19 21:29:13 +0000     6512 bytes  test/test.js</tspan>
+</text>
+</svg>
